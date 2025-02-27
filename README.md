@@ -1,7 +1,8 @@
 # cbat: Clojure for the Brave and True
 
-Learning Clojure by following along with the book:
+Learning Clojure by following along with cftbat.
 
-https://www.braveclojure.com/
+Book: [Clojure for the Brave and True](https://www.braveclojure.com/)
+Repo: [cftbat repository](https://github.com/braveclojure/cftbat-code/tree/master)
 
 
